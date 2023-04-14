@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CalculadoraTableLayau</string>
+    <string name="tv1">0</string>
+    <string name="tv2">1</string>
+    <string name="tv3">2</string>
+    <string name="tv4">3</string>
+    <string name="tv5">4</string>
+    <string name="tv6">5</string>
+    <string name="tv7">6</string>
+    <string name="tv8">7</string>
+    <string name="tv9">8</string>
+    <string name="tv10">9</string>
+    <string name="tv11">+</string>
+    <string name="tv12">-</string>
+    <string name="tv13">x</string>
+    <string name="tv14">%</string>
+    <string name="tv15">0</string>
+    <string name="tv16">=</string>
+    <string name="tv17">RESTAURAR VALORES</string>
+
+
+
+</resources>
